@@ -16,8 +16,6 @@
 <img  align="top " alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=fo-the-badge&logo=typescript&logoColor=white"/>
 <img  align="center " alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 
-<img  align="center " alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
 
 </div>
 <div style="display: inline_block"><br/>
