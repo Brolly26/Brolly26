@@ -44,9 +44,9 @@
 ---
 
 ## 📫 Contato
-📧 Email: [seuemail@gmail.com](mailto:seuemail@gmail.com)  
-🌎 Site/Portfólio: [seusite.com](https://seusite.com)  
-💼 LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)
+📧 Email: [bielaugusto8@hotmail.com](mailto:bielaugusto8@hotmail.com)  
+🌎 Site/Portfólio: [Porfólio](https://brolly26.github.io/portfolio/templates/index.html)  
+💼 LinkedIn: [linkedin](https://www.linkedin.com/in/gabriel-augusto-86aa031b2/)
 
 ---
 
