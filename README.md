@@ -3,7 +3,7 @@
 <h1 align="center">👋 Olá, eu sou Gabriel Augusto!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Desenvolvedor+Fullstack;Apaixonado+por+Tecnologia;Criador+de+Startups" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Desenvolvedor+Front-End;Apaixonado+por+Tecnologia" />
 </p>
 
 ## 🚀 Sobre mim
@@ -27,7 +27,7 @@
 
 🔹 [📖 Contos Interativos](https://github.com/seu-usuario/contosinterativos) - Plataforma de histórias infantis interativas com IA.
 
-🔹 [💡 EmergCare](https://github.com/seu-usuario/emergcare) - Sistema de telemedicina com pagamentos online.
+🔹 [💡 EmergCare](https://emerg-care-frontend.vercel.app/) - Sistema de telemedicina com pagamentos online.
 
 ---
 
