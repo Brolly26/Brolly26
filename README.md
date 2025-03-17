@@ -7,7 +7,7 @@
 </p>
 
 ## 🚀 Sobre mim
-🔹 Desenvolvedor Fullstack apaixonado por tecnologia e inovação.
+🔹 Desenvolvedor Front-End apaixonado por tecnologia e inovação.
 🔹 Criador da **Redator Pro** e de um projeto de **contos interativos infantis**.
 🔹 Buscando novas oportunidades para crescer e impactar positivamente o mundo com tecnologia!
 
@@ -16,7 +16,7 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,mongodb,postgres,git,github,docker,js,ts,py" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,git,github,js,ts" />
 </div>
 
 ---
