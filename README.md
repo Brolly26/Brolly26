@@ -1,4 +1,3 @@
-![Header](https://via.placeholder.com/1200x400?text=Bem-vindo+ao+meu+GitHub!)
 
 <h1 align="center">👋 Olá, eu sou Gabriel Augusto!</h1>
 
