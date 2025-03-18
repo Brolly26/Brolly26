@@ -20,11 +20,7 @@
 
 ---
 
-## 📌 Projetos Destacados
-
-🔹 [🚀 Redator Pro](https://github.com/seu-usuario/redatorpro) - Plataforma de correção de redações com IA e professores.
-
-🔹 [📖 Contos Interativos](https://github.com/seu-usuario/contosinterativos) - Plataforma de histórias infantis interativas com IA.
+## 📌 Projetos Destacado
 
 🔹 [💡 EmergCare](https://emerg-care-frontend.vercel.app/) - Sistema de telemedicina com pagamentos online.
 
