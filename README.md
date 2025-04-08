@@ -26,15 +26,10 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brolly26&show_icons=true&theme=radical" />
-</p>
+<br clear="both">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brolly26&theme=radical" />
-</p>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ---
 
@@ -46,3 +41,20 @@
 ---
 
 <p align="center">🚀 Sempre aprendendo e criando novas soluções! 🚀</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
