@@ -7,7 +7,6 @@
 
 ## 🚀 Sobre mim
 🔹 Desenvolvedor Front-End apaixonado por tecnologia e inovação.
-🔹 Criador da **Redator Pro** e de um projeto de **contos interativos infantis**.
 🔹 Buscando novas oportunidades para crescer e impactar positivamente o mundo com tecnologia!
 
 ---
