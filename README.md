@@ -6,7 +6,7 @@
 </p>
 
 ## 🚀 Sobre mim
-🔹 Desenvolvedor Front-End apaixonado por tecnologia e inovação.
+🔹 Desenvolvedor Full Stack apaixonado por tecnologia e inovação.
 🔹 Buscando novas oportunidades para crescer e impactar positivamente o mundo com tecnologia!
 
 ---
