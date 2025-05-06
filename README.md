@@ -2,7 +2,7 @@
 <h1 align="center">👋 Olá, eu sou Gabriel Augusto!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Desenvolvedor+Front-End;Apaixonado+por+Tecnologia" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia" />
 </p>
 
 ## 🚀 Sobre mim
